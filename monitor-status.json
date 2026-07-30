@@ -1,11 +1,15 @@
 {
-  "checkedAt": "2026-07-30T19:19:33.117923+09:00",
+  "checkedAt": "2026-07-30T19:28:29.053166+09:00",
   "latestSourceDate": "2026-08-06",
-  "recentSourceCount": 31,
+  "recentSourceCount": 11,
   "createdDates": [
-    "2026-07-02",
-    "2026-07-01"
+    "2026-08-04",
+    "2026-08-03",
+    "2026-08-02"
   ],
-  "remainingDates": [],
+  "remainingDates": [
+    "2026-07-31",
+    "2026-08-01"
+  ],
   "errors": {}
 }
