@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-08-01T06:55:10.749932+09:00",
+  "generationMode": "independent-score-template-v1",
+  "requestedStart": "2026-08-01",
+  "requestedEnd": "2026-08-07",
+  "availableDates": [
+    "2026-08-01",
+    "2026-08-02",
+    "2026-08-03",
+    "2026-08-04",
+    "2026-08-05",
+    "2026-08-06"
+  ],
+  "missingDates": [
+    "2026-08-07"
+  ],
+  "lastAvailableDate": "2026-08-06",
+  "warningDate": "2026-08-05"
+}
