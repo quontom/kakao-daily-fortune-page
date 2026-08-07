@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T03:00:42.731252+09:00",
+  "generatedAt": "2026-08-08T06:21:46.766684+09:00",
   "generationMode": "openai-luna-with-independent-template-fallback",
   "requestedStart": "2026-08-08",
   "requestedEnd": "2026-08-14",
@@ -34,5 +34,5 @@
     "2026-08-13": "openai-gpt-5.6-luna-structured-v1",
     "2026-08-14": "openai-gpt-5.6-luna-structured-v1"
   },
-  "sourceObservationChecks": 30
+  "sourceObservationChecks": 31
 }
