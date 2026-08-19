@@ -1,23 +1,24 @@
 {
-  "generatedAt": "2026-08-19T23:17:10.200028+09:00",
+  "generatedAt": "2026-08-20T00:42:15.727868+09:00",
   "generationMode": "openai-luna-with-independent-template-fallback",
-  "requestedStart": "2026-08-19",
-  "requestedEnd": "2026-08-25",
+  "requestedStart": "2026-08-20",
+  "requestedEnd": "2026-08-26",
   "availableDates": [
-    "2026-08-19",
     "2026-08-20",
     "2026-08-21",
     "2026-08-22",
     "2026-08-23",
     "2026-08-24",
-    "2026-08-25"
+    "2026-08-25",
+    "2026-08-26"
   ],
   "missingDates": [],
-  "lastAvailableDate": "2026-08-25",
-  "warningDate": "2026-08-24",
-  "generatedDates": [],
+  "lastAvailableDate": "2026-08-26",
+  "warningDate": "2026-08-25",
+  "generatedDates": [
+    "2026-08-26"
+  ],
   "skippedDates": [
-    "2026-08-19",
     "2026-08-20",
     "2026-08-21",
     "2026-08-22",
@@ -26,13 +27,13 @@
     "2026-08-25"
   ],
   "generationByDate": {
-    "2026-08-19": "openai-gpt-5.6-luna-structured-v1",
     "2026-08-20": "openai-gpt-5.6-luna-structured-v1",
     "2026-08-21": "openai-gpt-5.6-luna-structured-v1",
     "2026-08-22": "openai-gpt-5.6-luna-structured-v1",
     "2026-08-23": "openai-gpt-5.6-luna-structured-v1",
     "2026-08-24": "openai-gpt-5.6-luna-structured-v1",
-    "2026-08-25": "openai-gpt-5.6-luna-structured-v1"
+    "2026-08-25": "openai-gpt-5.6-luna-structured-v1",
+    "2026-08-26": "openai-gpt-5.6-luna-structured-v1"
   },
   "sourceObservationChecks": 120
 }
