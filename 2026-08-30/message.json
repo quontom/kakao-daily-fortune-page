@@ -3,10 +3,10 @@
   "text": "🌞 2026년 8월 30일 오늘의 운세\n\n🌟 기운이 빛나는 띠\n🥇 용띠 96 — 금전·건강운\n🥈 소띠 92 — 금전·애정운\n🥉 원숭이띠 89 — 금전·애정운\n\n🌿 오늘은 한 박자 천천히\n양띠 34 — 금전·건강주의\n뱀띠 36 — 금전·건강주의\n닭띠 38 — 금전·건강주의\n\n🍀 좋은 흐름은 활용하고, 중요한 결정은 꼼꼼히 확인하세요.",
   "page_url": "https://quontom.github.io/kakao-daily-fortune-page/2026-08-30/",
   "source_url": "https://askjiyun.com/?mid=today&page=1&document_srl=278017",
-  "generation": "openai-gpt-5.6-luna-source-grounded-v2",
+  "generation": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
   "usage": {
-    "inputTokens": 6086,
-    "outputTokens": 2371,
-    "totalTokens": 8457
+    "inputTokens": 6092,
+    "outputTokens": 2353,
+    "totalTokens": 8445
   }
 }
