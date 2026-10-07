@@ -1,23 +1,24 @@
 {
-  "generatedAt": "2026-10-07T11:18:12.639299+09:00",
+  "generatedAt": "2026-10-08T02:23:42.982593+09:00",
   "generationMode": "openai-luna-with-independent-template-fallback",
-  "requestedStart": "2026-10-07",
-  "requestedEnd": "2026-10-13",
+  "requestedStart": "2026-10-08",
+  "requestedEnd": "2026-10-14",
   "availableDates": [
-    "2026-10-07",
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
     "2026-10-11",
     "2026-10-12",
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-14"
   ],
   "missingDates": [],
-  "lastAvailableDate": "2026-10-13",
-  "warningDate": "2026-10-12",
-  "generatedDates": [],
+  "lastAvailableDate": "2026-10-14",
+  "warningDate": "2026-10-13",
+  "generatedDates": [
+    "2026-10-14"
+  ],
   "skippedDates": [
-    "2026-10-07",
     "2026-10-08",
     "2026-10-09",
     "2026-10-10",
@@ -26,13 +27,13 @@
     "2026-10-13"
   ],
   "generationByDate": {
-    "2026-10-07": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
     "2026-10-08": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
     "2026-10-09": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
     "2026-10-10": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
     "2026-10-11": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
     "2026-10-12": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
-    "2026-10-13": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups"
+    "2026-10-13": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups",
+    "2026-10-14": "openai-gpt-5.6-luna-source-grounded-v3-dynamic-groups"
   },
   "sourceObservationChecks": 120
 }
