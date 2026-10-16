@@ -1,15 +1,10 @@
 {
-  "updatedAt": "2026-10-16T23:43:58.067753+09:00",
-  "today": "2026-10-16",
+  "updatedAt": "2026-10-17T02:41:31.356170+09:00",
+  "today": "2026-10-17",
   "windowDays": 11,
   "pastDays": 5,
   "futureDays": 5,
   "dates": [
-    {
-      "date": "2026-10-11",
-      "label": "2026년 10월 11일",
-      "url": "https://quontom.github.io/kakao-daily-fortune-page/2026-10-11/"
-    },
     {
       "date": "2026-10-12",
       "label": "2026년 10월 12일",
