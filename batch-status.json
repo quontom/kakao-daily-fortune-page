@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:16:40.907783+09:00",
+  "generatedAt": "2026-10-31T18:31:14.185874+09:00",
   "generationMode": "openai-luna-with-independent-template-fallback",
   "requestedStart": "2026-10-31",
   "requestedEnd": "2026-11-06",
@@ -15,13 +15,12 @@
   "missingDates": [],
   "lastAvailableDate": "2026-11-06",
   "warningDate": "2026-11-05",
-  "generatedDates": [
-    "2026-11-03"
-  ],
+  "generatedDates": [],
   "skippedDates": [
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
+    "2026-11-03",
     "2026-11-04",
     "2026-11-05",
     "2026-11-06"
